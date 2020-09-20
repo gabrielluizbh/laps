@@ -1,2 +1,2 @@
-# laps
-Script de configuração do LAPS
+# Script de configuração do LAPS
+
